@@ -28,11 +28,9 @@ npm install
 npm start
 ```
 
-## Screenshots
+## Interface
 
-<p>The interface</p>
-
-<img src="./images/interface01.png" width="700"/> 
+<img src="./public/Buscador-de-CEP.gif" width="500"/> 
 
 ## Technologies
 

@@ -41,13 +41,13 @@ npm start
 
 ## Services Used
 
-![GitHub](https://img.shields.io/badge/GitHub%20Pages-000000?style=for-the-badge&logo=github&logoColor=white)</a>
+![VERCEL](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## Deploy
 
 You can access the project by clicking the button below.
 
-<a href="https://leonardo-ad.github.io/Calculator/" target='_blank'>![GitHub](https://img.shields.io/badge/GitHub%20Pages-000000?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://buscador-leonardo-ad.vercel.app/" target='_blank'>![VERCEL](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)</a>
 
 ## Autor
 

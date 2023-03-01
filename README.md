@@ -8,6 +8,10 @@
 - [x] Animation when loading or reloading the page
 - [x] Responsivity
 
+## Interface
+
+<img src="./public/Buscador-de-CEP.gif" width="400"/> 
+
 ## Starting the Application
 
 <p>1. After cloning the project</p>
@@ -27,10 +31,6 @@ npm install
 ```bash
 npm start
 ```
-
-## Interface
-
-<img src="./public/Buscador-de-CEP.gif" width="500"/> 
 
 ## Technologies
 

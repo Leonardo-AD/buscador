@@ -10,9 +10,23 @@
 
 ## Starting the Application
 
-<p>After cloning the project > cd buscador</p>
-<p>In the buscador repository we need to install the dependencies > npm install</p>
-<p>And finally we can run the application > npm start</p>
+<p>1. After cloning the project</p>
+
+```bash
+cd buscador
+```
+
+<p>2. In the buscador repository we need to install the dependencies</p>
+
+```bash
+npm install
+```
+
+<p>3. And finally we can run the application</p>
+
+```bash
+npm start
+```
 
 ## Screenshots
 

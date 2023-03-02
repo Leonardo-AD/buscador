@@ -1,6 +1,6 @@
 <h1 align='center'>Buscador</h1>
 
-<p>Buscador is an address search project by Brazilian zip code. In this app I am using React, JavaScript, HTML5 and CSS3.</p>
+<p>Buscador is an address search project by Brazilian zip code. In this app I am using React, JavaScript, HTML5, CSS3 and SweetAlert2.</p>
 
 ## Features Developed
 

@@ -49,18 +49,3 @@ npm start
 You can access the project by clicking the button below.
 
 <a href="https://buscador-seven.vercel.app/" target='_blank'>![VERCEL](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)</a>
-
-## Autor
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/leonardo-ad"><img src="https://avatars.githubusercontent.com/u/37024336?v=4" style="border-radius: 50px;" width="100px;" height="100px" alt="Autor image"/>
-      <br/>
-      <sub><b>Leonardo Alves Dias</b></sub>
-      <br/><br/>
-      <a href="https://www.linkedin.com/in/leonardo-alves-877368165/"><img src="https://user-images.githubusercontent.com/86114583/192514843-1087a34f-74f9-46aa-94fa-e824950af81f.svg" width="20px"/> <a href="mailto:leonardo.alves779@gmail.com"><img src="https://user-images.githubusercontent.com/86114583/192515071-4fa6bce6-6ee9-49ca-9395-c17e74075a20.svg" width="20px"/>
-      </a>
-    </td>
-   </tr>
-</table>
